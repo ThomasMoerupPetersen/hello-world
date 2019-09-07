@@ -1,1 +1,2 @@
 a file made by worker2
+Another line added to the file by worker1.
