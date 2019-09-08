@@ -1,5 +1,6 @@
 This is just a test, to see how things are working when typing on my new ducky one 2 keyboard.
 Another line just added.
+Line 3 added by worker2 in the branch fix6-w2 (i believe its called so)
 This is the third line, added by worker1
 this line is added by worker1 in branch fix5-w1
 this line is added by worker1 in branch fix6-w1
