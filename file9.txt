@@ -1,6 +1,14 @@
 number nine
 added line by worker2
 added line by worker2
+<<<<<<< HEAD
 second line added by worker1
+<<<<<<< HEAD
 line 4, added as part of feature7 by worker1. (first commit).
 line 5, added as part of feature7 by worker1, in second commit.
+=======
+=======
+second line added by worker1. appended to line4 as part of feature8.
+>>>>>>> changed line4, appended file9
+line5 added as part of feature8, by worker2.
+>>>>>>> feature8 implemented in file9.txt
